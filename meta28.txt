@@ -1,0 +1,15 @@
+
+b1 = 0, as n is smallish
+b2 = 1, as the graph is relatively dense
+b3 = 1, as the graph does contain self loops
+b4 = 1, as the graph is a multigraph
+b5 = 0, as the graph has no negative cycles
+b6 = 0, as all nodes are reachable from the start node
+binary = 011100 
+base10 = 28
+
+- This is a very generic graph, with some negative weight edges
+- Every node is reachable and there are no cycles
+- There are graph cycles and there are two edges with the same start and end node 
+	- (ie this is a multigraph)
+- There are no negative cycles

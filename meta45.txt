@@ -1,0 +1,10 @@
+
+- This file contains 9 node (n = 10) and 10 edges (m = 10)
+- Nodes start at 1 (hence why n = 10)
+- Somewhat sparse graph
+- Five unreachable nodes
+- No negative cycles
+- One self loop
+- This graph is a multigraph with node 1 having two outgoing edges to node 2
+- Start node at 1
+- 9 queries

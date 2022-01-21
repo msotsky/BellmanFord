@@ -1,0 +1,6 @@
+Author: Liam Keliher
+
+- this file contains two nodes (n = 2) and two edges (m = 2)
+- one edge is from node 0 to node 1, and other is from node 1 to node 0 (creating a cycle)
+- the start node is node 1 (s = 1)
+- there are two queries, 1 and 0, for which the answers are 0 and 97, respectively

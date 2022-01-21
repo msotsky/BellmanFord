@@ -1,0 +1,9 @@
+
+- This file is a sparse graph that contains 6 nodes (n = 6) and 5 edges (m = 5) 
+- It also has 5 queries (q = 5) for which the answers are Unreachable, Unreachable, 1, 6, and 4 respectively
+- The start node is node 2 (s = 2)
+- It has no cycles, positive or negative
+- It has two self-loops
+- It is not a multigraph, and all nodes are not reachable from the start node
+- Also, it looks like a smiley face
+

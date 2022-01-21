@@ -1,0 +1,5 @@
+
+This is a small, sparse graph that does not contain
+any self-loops or positive/negative cycles. It is not 
+a multigraph, and not all nodes can be reached from the
+source node, those being nodes 2, 6, and 8

@@ -1,0 +1,4 @@
+
+This is a small, dense graph with 2 self-loops, a number
+of positive cycles and no negative cycles. It is not a multigraph,
+and each node in the graph can be reached from the start node

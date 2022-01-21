@@ -1,0 +1,9 @@
+
+- This file is a dense graph that contains 4 nodes (n = 4) and 8 edges (m = 8) 
+- It also has 3 queries (q = 3) for which the answers are -3, -4, and -10 respectively
+- The start node is node 1 (s = 1)
+- It has no 3 positive cycles and 1 negative cycle
+- It has no self-loops
+- It is a multigraph, and all nodes are reachable from the start node
+- Also, it looks like a rubberband bracelet
+

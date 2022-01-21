@@ -1,0 +1,2 @@
+
+This is a small, sparse graph, which contains one positive self-loop, one positive cycle, one node that is not reachable.

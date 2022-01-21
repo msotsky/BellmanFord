@@ -1,0 +1,9 @@
+
+-This file contains 5 nodes (n= 6) 
+-Nodes start at 1 and go to n-1
+-This file contains 9 edges (m = 9)
+-The start node is node 1
+-There are 5 queries
+-There is no negative cycles and is not a multigraph
+-There is one self-cycle
+-There is one cycle back to the start node

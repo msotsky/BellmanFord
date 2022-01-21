@@ -1,0 +1,12 @@
+
+- This is a large, dense graph with no negative cycles
+- The graph contains 1000 nodes (n = 1000) and 1000000 edges (m = 1000000)
+- There are 1000 queries (q = 1000) and the source node is node 11 (s = 11)
+- Also a directed, complete graph (there is a directed edge from every node to every other node, plus self-loops)
+- Not a multigraph
+- Edge weights were generated using the following rules (according to each node's index number) to ensure no negative cycles:
+  - even index -> even index = edge weight in range 10 to 1000
+  - even index -> odd index  = edge weight in range 1000 to 2000
+  - odd index -> even index  = edge weight in range -1000 to -10
+  - odd index -> odd index   = edge weight in range 10 to 1000
+- This graph is useful to analyze the speed of a shortest path algorithm on a large, dense graph

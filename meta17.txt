@@ -1,0 +1,3 @@
+
+a 7 node graph with no negative cycles, it is not a multigraph and it has no self-loops.
+It does however have one node not connected to the rest.

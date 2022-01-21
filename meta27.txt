@@ -1,0 +1,9 @@
+
+A dense graph with one self-loop that has one negative cycle.
+
+1. Small/large? Small.
+2. Sparse/dense? Dense.
+3. Contain self-loop? Yes.
+4. Contain multigraph? No.
+5. Has negative cycles? Yes.
+6. All nodes are reachable? No.

@@ -1,0 +1,5 @@
+Author: Liam Keliher
+
+- this file contains one node (n = 1) and zero edges (m = 0)
+- the start node is the only node (index 0) (s = 0)
+- there is 1 query that asks for the shortest path from the start node to itself (answer = 0)

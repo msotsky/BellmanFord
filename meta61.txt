@@ -1,0 +1,10 @@
+
+- This file contains 9 nodes (n =10)
+- Nodes start at 1 and go to n-1
+- This file contains 22 edges (m = 22)
+- The start node is node 1
+- There are 9 queries
+- There are no negative cycles
+- This is a multi-graph
+- There is one self loop
+- There is one cycle back to the start node

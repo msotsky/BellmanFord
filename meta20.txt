@@ -1,0 +1,8 @@
+
+- This file contains 6 nodes (n = 7) and 10 edges (m = 10)
+- Nodes start at 1 (hence why n = 7)
+- This graph is a multigraph, with node 1 having two directed edges to node 2 
+  and node 2 having two directed edges to node 3
+- Start node at node 1
+- 6 queries
+- There are is one cycle back to the start node

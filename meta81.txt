@@ -1,0 +1,6 @@
+Author: Liam Keliher
+
+- this file contains one node (n = 1) and one edge (m = 1)
+- the edge is a self-loop from node 0 to node 0 (with weight 500)
+- the start node is the only node (index 0) (s = 0)
+- there is one query that asks for the shortest path from the start node to itself (answer = 0)

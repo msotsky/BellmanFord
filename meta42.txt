@@ -1,0 +1,12 @@
+
+- This is a large, sparse graph with two negative cycles and three self-loops
+- The graph contains 1000 nodes (n = 1000) and 1011 edges (m = 1011)
+- There are 9 queries (q = 9) and the start node is 42 (s = 42)
+- The two negative cycles are along nodes:
+  3 -> 4 -> 1 -> 19 -> 3
+  29 -> 41 -> 46 -> 27 -> 45 -> 29
+- The three self-loops are at nodes 417, 614, and 714
+- Not a multigraph
+- All nodes are reachable from the start node
+- Edge weights were randomly generated in the range -2000 to 2000.
+- This file is useful to test whether a program will find negative cycles in a large graph

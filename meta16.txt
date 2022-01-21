@@ -1,0 +1,12 @@
+
+b1 = 0, as n is smallish
+b2 = 1, as the graph is relatively dense
+b3 = 0, as the graph does not contain any self loops
+b4 = 0, as the graph is not a multigraph
+b5 = 0, as the graph has no negative cycles
+b6 = 0, as all nodes are reachable from the start node
+binary = 010000 
+base10 = 16
+
+- This is a very generic graph, with some negative weight edges
+- Every node is reachable and there are no cycles
